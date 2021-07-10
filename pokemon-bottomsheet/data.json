@@ -1,0 +1,375 @@
+{ "pokemon" : [
+    {
+        "no": "001",
+        "name": "이상해씨",
+        "type": [
+            {
+                "item": "풀"
+            },
+            {
+                "item": "독"
+            }
+        ],
+        "height": "0.7m",
+        "kind": "씨앗몬스터",
+        "weight": "6.9kg",
+        "special": "심록",
+        "description": "태어났을 때부터 등에 식물의 씨앗이 있으며 조금씩 크게 자란다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/000101.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000101.png"
+    },
+    {
+        "no": "004",
+        "name": "파이리",
+        "type": [
+            {
+                "item": "불꽃"
+            }
+        ],
+        "height": "0.6m",
+        "kind": "도롱뇽포켓몬",
+        "weight": "8.5kg",
+        "special": "맹화",
+        "description": "뜨거운 것을 좋아하는 성격이다. 비에 젖으면 꼬리 끝에서 연기가 난다고 한다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/000401.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000401.png"
+    },
+    {
+        "no": "007",
+        "name": "꼬부기",
+        "type": [
+            {
+                "item": "물"
+            }
+        ],
+        "height": "0.6m",
+        "kind": "꼬마거북포켓몬",
+        "weight": "9.0kg",
+        "special": "급류",
+        "description": "기다란 목을 등껍질 속에 감춘 다음 기세 좋게 물대포를 발사한다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/000701.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000701.png"
+    },
+    {
+        "no": "012",
+        "name": "버터플",
+        "type": [
+            {
+                "item": "벌레"
+            },
+            {
+                "item": "비행"
+            }
+        ],
+        "height": "1.1m",
+        "kind": "나비포켓몬",
+        "weight": "32.0kg",
+        "special": "복안",
+        "description": "매우 빠르게 날갯짓하면 맹독성의 인분이 바람을 타고 날아간다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/001201.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001201.png"
+    },
+    {
+        "no": "025",
+        "name": "피카츄",
+        "type": [
+            {
+                "item": "전기"
+            }
+        ],
+        "height": "0.4m",
+        "kind": "쥐포켓몬",
+        "weight": "6.0kg",
+        "special": "정전기",
+        "description": "만들어 내는 전기가 강력한 피카츄일수록 볼의 주머니가 부드럽고 잘 늘어난다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/002501.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002501.png"
+    },
+    {
+        "no": "039",
+        "name": "푸린",
+        "type": [
+            {
+                "item": "노말"
+            },
+            {
+                "item": "페어리"
+            },
+        ],
+        "height": "0.5m",
+        "kind": "풍선포켓몬",
+        "weight": "5.5kg",
+        "special": "헤롱헤롱바디, 승기",
+        "description": "폐활량은 포켓몬 중에서도 톱클래스다. 상대가 잠들 때까지 자장가를 계속 부른다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/003901.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003901.png"
+    },
+    {
+        "no": "052",
+        "name": "냐옹",
+        "type": [
+            {
+                "item": "노말"
+            },
+        ],
+        "height": "0.4m",
+        "kind": "요괴고양이포켓몬",
+        "weight": "4.2kg",
+        "special": "픽업, 테크니션",
+        "description": "빛나는 물건을 모으는 것을 좋아한다. 기분이 좋을 때는 트레이너에게도 컬렉션을 보여준다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/005201.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005201.png"
+    },
+    {
+        "no": "087",
+        "name": "쥬레곤",
+        "type": [
+            {
+                "item": "물"
+            },
+            {
+                "item": "얼음"
+            },
+        ],
+        "height": "1.7m",
+        "kind": "강치포켓몬",
+        "weight": "120.0kg",
+        "special": "두꺼운지방, 촉촉바디",
+        "description": "전신이 새하얀 털로 뒤덮여 있다. 추위에 강해서 오히려 추울수록 힘이 넘쳐 난다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/008701.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008701.png"
+    },
+    {
+        "no": "116",
+        "name": "쏘드라",
+        "type": [
+            {
+                "item": "물"
+            },
+        ],
+        "height": "0.4m",
+        "kind": "드래곤포켓몬",
+        "weight": "8.0kg",
+        "special": "쓱쓱, 스나이퍼",
+        "description": "잔잔하게 흐르는 고요한 바다에 산다. 습격당하면 새까만 먹물을 내뿜고 그 틈에 도망친다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/011601.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011601.png"
+    },
+    {
+        "no": "129",
+        "name": "잉어킹",
+        "type": [
+            {
+                "item": "물"
+            },
+        ],
+        "height": "0.9m",
+        "kind": "물고기포켓몬",
+        "weight": "10.0kg",
+        "special": "쓱쓱",
+        "description": "힘도 스피드도 거의 없다. 세상에서 가장 약하고 한심한 포켓몬이다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/012901.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012901.png"
+    },
+    {
+        "no": "131",
+        "name": "메타몽",
+        "type": [
+            {
+                "item": "노말"
+            },
+        ],
+        "height": "0.3m",
+        "kind": "변신포켓몬",
+        "weight": "4.0kg",
+        "special": "유연",
+        "description": "전신의 세포를 재구성해서 본 것과 똑 닮게 변신하지만 힘이 빠지면 원래대로 돌아간다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/013201.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013201.png"
+    },
+    {
+        "no": "133",
+        "name": "이브이",
+        "type": [
+            {
+                "item": "노말"
+            },
+        ],
+        "height": "0.3m",
+        "kind": "진화포켓몬",
+        "weight": "6.5kg",
+        "special": "도주, 적응력",
+        "description": "주위의 환경에 맞춰서 몸의 구조를 바꿔나가는 능력의 소유자다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/013301.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013301.png"
+    },
+    {
+        "no": "137",
+        "name": "폴리곤",
+        "type": [
+            {
+                "item": "노말"
+            },
+        ],
+        "height": "0.8m",
+        "kind": "가상포켓몬",
+        "weight": "36.5kg",
+        "special": "트레이스, 다운로드",
+        "description": "최고의 과학 기술을 사용해 세계에서 처음으로 프로그래밍되어 만들어진 인공 포켓몬이다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/013701.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013701.png"
+    },
+    {
+        "no": "152",
+        "name": "치코리타",
+        "type": [
+            {
+                "item": "풀"
+            },
+        ],
+        "height": "0.9m",
+        "kind": "잎사귀포켓몬",
+        "weight": "6.4kg",
+        "special": "심록",
+        "description": "머리의 잎사귀에서 살짝 달콤한 향기가 감돈다. 얌전하며 햇볕을 쬐는 것을 매우 좋아한다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/015201.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015201.png"
+    },
+    {
+        "no": "172",
+        "name": "피츄",
+        "type": [
+            {
+                "item": "전기"
+            },
+        ],
+        "height": "0.3m",
+        "kind": "아기쥐포켓몬",
+        "weight": "2.0kg",
+        "special": "정전기",
+        "description": "작아도 어른을 찌릿찌릿 감전시킬 정도의 전기를 낸다. 단, 자신도 놀라 어찌할 줄 모른다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/017201.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017201.png"
+    },
+    {
+        "no": "194",
+        "name": "우파",
+        "type": [
+            {
+                "item": "물"
+            },
+            {
+                "item": "땅"
+            },
+        ],
+        "height": "0.4m",
+        "kind": "수어포켓몬",
+        "weight": "8.5kg",
+        "special": "습기, 저수",
+        "description": "차가운 물속에서 생활한다. 근처가 선선해지면 먹이를 찾으러 지상에도 나타난다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/019401.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019401.png"
+    },
+    {
+        "no": "201",
+        "name": "안농",
+        "type": [
+            {
+                "item": "에스퍼"
+            },
+        ],
+        "height": "0.5m",
+        "kind": "심볼포켓몬",
+        "weight": "5.0kg",
+        "special": "부유",
+        "description": "몸 자체는 굉장히 얇고 항상 벽에 들러붙어 있다. 모습에는 뭔가 의미가 있는 듯하다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/020101.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020101.png"
+    },
+    {
+        "no": "202",
+        "name": "마자용",
+        "type": [
+            {
+                "item": "에스퍼"
+            },
+        ],
+        "height": "1.3m",
+        "kind": "참기포켓몬",
+        "weight": "28.5kg",
+        "special": "그림자밟기",
+        "description": "빛과 쇼크를 싫어한다. 공격받으면 몸이 부풀어올라 반격이 강력해진다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/020201.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020201.png"
+    },
+    {
+        "no": "220",
+        "name": "꾸꾸리",
+        "type": [
+            {
+                "item": "얼음"
+            },
+            {
+                "item": "땅"
+            },
+        ],
+        "height": "0.4m",
+        "kind": "산돼지포켓몬",
+        "weight": "6.5kg",
+        "special": "둔감",
+        "description": "먹이를 찾기 위해 코를 바닥에 비벼 땅을 파고 있다. 가끔 온천을 찾아낸다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/022001.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022001.png"
+    },
+    {
+        "no": "258",
+        "name": "물짱이",
+        "type": [
+            {
+                "item": "물"
+            },
+        ],
+        "height": "0.4m",
+        "kind": "늪물고기포캣몬",
+        "weight": "7.6kg",
+        "special": "급류",
+        "description": "커다란 꼬리지느러미로 물을 헤치면 스피드가 쑥쑥 오른다. 작은 몸이지만 힘이 장사다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/025801.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025801.png"
+    },
+    {
+        "no": "265",
+        "name": "개무소",
+        "type": [
+            {
+                "item": "벌레"
+            },
+        ],
+        "height": "0.3m",
+        "kind": "애벌레포켓몬",
+        "weight": "3.6kg",
+        "special": "인분",
+        "description": "잎사귀를 매우 좋아한다. 찌르꼬에게 습격당했을 때는 엉덩이의 가시로 물리친다.",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/026501.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026501.png"
+    },
+    {
+        "no": "267",
+        "name": "뷰티플라이",
+        "type": [
+            {
+                "item": "벌레"
+            },
+            {
+                "item": "비행"
+            }
+        ],
+        "height": "0.3m",
+        "kind": "애벌레포켓몬",
+        "weight": "3.6kg",
+        "special": "인분",
+        "description": "색이 선",
+        "imgUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/mid/026701.png",
+        "fullImageUrl": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026701.png"
+    },
+]}
